@@ -1,0 +1,6 @@
+<svg width="130" height="130"  fill="none">
+        <g id="cross">
+        <path id="xp1" d="M18 18L112.045 112.045" stroke="black" stroke-width="18" stroke-linecap="round"/>
+        <path id="xp2" d="M112.045 18L18 112.045" stroke="black" stroke-width="18" stroke-linecap="round"/>
+        </g>
+</svg>
